@@ -25,6 +25,9 @@ Netzwerk-Architekturen für mehrere tausend gleichzeitige Spieler.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jct-de&show_icons=true&theme=transparent&hide_border=true)
 
+## Privat Organisation
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=j-systems&repo=minecraft-bot)](https://github.com/j-systems/minecraft-bot)
+
 ## Kontakt
 
 🌐 [saschathiesen.de](https://saschathiesen.de)
