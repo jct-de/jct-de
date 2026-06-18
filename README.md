@@ -30,9 +30,9 @@ Netzwerk-Architekturen für mehrere tausend gleichzeitige Spieler.
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=j-systems&repo=jarvisassistant-v3)](https://github.com/j-systems/jarvisassistant-v3)
 
-## Kontakt
+## Besuche mich!
 
-🌐 [saschathiesen.de](https://saschathiesen.de)
+Webseite [saschathiesen.de](https://saschathiesen.de)
 
 ---
 *Zuletzt aktualisiert: Juni 2026*
