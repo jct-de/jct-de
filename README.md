@@ -1,9 +1,3 @@
-<!--
-  Diese Datei gehört in das spezielle GitHub-Repo mit demselben Namen wie dein
-  Benutzername (z. B. github.com/saschathiesen/saschathiesen), Dateiname: README.md
-  Ersetze unten DEIN-GITHUB-USERNAME in den Stats-Badges durch deinen echten Account.
--->
-
 # Hey, ich bin Sascha 👋
 
 Java-Entwickler mit Fokus auf Backend- und Server-Architektur. Seit 2016 entwickle ich
