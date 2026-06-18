@@ -26,7 +26,9 @@ Netzwerk-Architekturen für mehrere tausend gleichzeitige Spieler.
 ![Stats](https://github-readme-stats.vercel.app/api?username=jct-de&show_icons=true&theme=transparent&hide_border=true)
 
 ## Privat Organisation
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=j-systems&repo=minecraft-bot)](https://github.com/j-systems/minecraft-bot)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=j-systems&repo=minecraft-bot)](https://github.com/j-systems/minecraft-bot) [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=j-systems&repo=Jarvis-v3)](https://github.com/j-systems/Jarvis-v3)
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=j-systems&repo=jarvisassistant-v3)](https://github.com/j-systems/jarvisassistant-v3)
 
 ## Kontakt
 
